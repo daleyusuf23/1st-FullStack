@@ -5,7 +5,7 @@ In this Full stack website will comprise of all three components to create a web
 that tracks an individuals orders at a restaurant.
 
 
-![placeholder-text](path/to/image)
+![placeholder-text](Untitled-Diagram.jpg)
 
-![placeholder-text](path/to/image)
+![placeholder-text](erd.png)
 
